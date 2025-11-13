@@ -1,0 +1,548 @@
+header {
+    /* Rectangle 1 */
+
+    position: absolute;
+    width: 5000px;
+    height: 618px;
+    left: 30x;
+    top: -10px;
+
+    background: #54113F;
+
+}
+.logo {
+   /* OIP 1 */
+
+    position: absolute;
+    width: 474px;
+    height: 355px;
+    left: 75px;
+    top: 112px;
+
+    background: url(OIP1.png);
+
+}
+.menu {
+    /* Menu */
+
+    position: absolute;
+    width: 631x;
+    height: 115px;
+    left: 948px;
+    top: 10px;
+    
+    font-family: 'Itim';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 180px;
+    line-height: 216px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+.menu li {
+    display: inline;
+    margin: 100x;
+    cursor: pointer;
+}
+.menu li a {
+    justify-content: space-between;
+    text-decoration: none;
+    color: white;
+}
+.menu li {
+    margin-left: 300px;          
+}
+.menu-icon {
+    /* image 44 */
+
+position: absolute;
+width: 772px;
+height: 434px;
+left: 4177px;
+top: 72px;
+
+background: url(leo.png);
+}
+.img {
+/* image 45 */
+
+position: absolute;
+width: 2038px;
+height: 1146px;
+left: 75px;
+top: 752px;
+display:flex;
+background: url(más.png);
+}
+.hero {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background: #F4E1E9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+h1{
+    font-family: 'Itim', cursive;
+    font-size: 59px;
+    color: #333;
+    weight: 100px;
+    
+}
+.texto1 {
+    position: absolute;
+    width: 1000px;
+    height: 1000px;
+    left: 2800px;
+    top: 200px;
+
+    font-family: 'Itim', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    /* or 117% */
+
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+.texto2 {
+    /* Más = Messi */
+
+position: absolute;
+width: 1369px;
+height: 224px;
+left: 2781px;
+top: 0.1px;
+
+font-family: 'Jomhuria';
+font-style: normal;
+font-weight: 400;
+font-size: 280px;
+line-height: 225px;
+
+color: #EF5FC2;
+
+border: 4px solid #781A5F;
+
+}
+.texto3 { 
+    /* -Cómo empezó esto? */
+
+position: absolute;
+width: 1809px;
+height: 129px;
+left: 2931px;
+top: 350px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 101px;
+
+color: #000000;
+}
+.texto4 {
+    /* Frase del fundador Leo Messi */
+
+position: absolute;
+width: 1298px;
+height: 161px;
+left: 3184px;
+top: 1137px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 130px;
+
+color: #C22B97;
+}
+.foto {
+    /* image 46 */
+
+position: absolute;
+width: 1110px;
+height: 624px;
+left: 4028px;
+top: 982px;
+background: url(image.png);
+background-size: cover;}
+
+.ADIDAS {
+    /* ADIDAS */
+
+position: absolute;
+width: 2447px;
+height: 185px;
+left: 904px;
+top: 1643px;
+
+font-family: 'Joan';
+font-style: normal;
+font-weight: 400;
+font-size: 180px;
+line-height: 233px;
+
+color: #D8B153;
+}
+.Botines {
+    /* image 47 */
+
+position: absolute;
+width: 1751px;
+height: 1312px;
+left: 3333px;
+top: 2062px;
+
+background: url(botines.png);
+}
+.texto5 {
+/* La colaboración entre Lionel Messi y Adidas ha sido un fenómeno global que ha trascendido el ámbito deportivo. Desde su debut con el FC Barcelona en 2004, Messi ha sido un embajador principal de la marca, generando campañas publicitarias de gran impacto.  */
+
+position: absolute;
+width: 2808px;
+height: 277px;
+left: 216px;
+top: 2000px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 101px;
+text-decoration-line: underline;
+
+color: #000000;
+
+
+}
+.texto6 {
+    /* En 2017, se firmó un contrato vitalicio que consolidó su asociación para toda la carrera del futbolista, asegurando su presencia en las campañas de Adidas y refuerzando su posición en el mercado global. */
+
+position: absolute;
+width: 2808px;
+height: 299px;
+left: 216px;
+top: 2400px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 101px;
+text-decoration-line: underline;
+
+color: #000000;
+
+
+}
+.texto7 {
+    /*  Messi ha sido clave en el diseño de varios modelos de zapatillas Adidas, incluyendo el Adizero Messi 2025, que combina tecnología avanzada con un diseño atractivo. Además, Messi Originals, en colaboración con Adidas, ha redefinido el concepto de athleisure, combinando el mundo del deporte y la moda para cautivar a los mercados de USA y Latinoamérica. La colaboración también incluye lanzamientos exclusivos y campañas dirigidas a estas regiones clave, destacando el compromiso de Messi con el medio ambiente y el consumidor consciente en su colección Messi Originals.  */
+
+position: absolute;
+width: 2868px;
+height: 812px;
+left: 216px;
+top: 2793px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 101px;
+text-decoration-line: underline;
+
+color: #000000;
+}
+.footer {
+    /* Rectangle 2 */
+
+position: absolute;
+width: 5000px;
+height: 618px;
+left: 0px;
+top: 4382px;
+
+background: #54113F;
+
+}
+.arg {
+/* Argentina */
+
+position: absolute;
+width: 1249px;
+height: 170px;
+left: 2317px;
+top: 196px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 120px;
+
+color: #000000;
+
+
+}
+.stanley {
+   /* STANLEY */
+
+position: absolute;
+width: 1768px;
+height: 184px;
+left: 404px;
+top: 730px;
+
+font-family: 'Jockey One';
+font-style: normal;
+font-weight: 400;
+font-size: 200px;
+line-height: 280px;
+
+color: #FA71E5;
+
+
+    
+}
+.texto8{
+    /* La colección "Messi x Stanley 1913" incluye una variedad de productos diseñados para la hidratación y el deporte, como el Vaso Quencher ProTour, el Mate System y una bombilla. Esta colección no solo celebra la conexión de Messi con sus raíces argentinas, sino que también refleja la dedicación de Stanley por crear artículos que favorezcan el alto rendimiento y la vida diaria. La colección incluye productos como el Vaso Quencher ProTour Flip Straw Tumbler, el Mate System, el Mate Clásico, y una bombilla con extremo en forma de cuchara. La colección "Messi GOAT Pink" destaca por su estilo y funcionalidad, inspirada en la figura del astro del fútbol.  */
+
+position: absolute;
+width: 2593px;
+height: 100px;
+left: 1745px;
+top: 780px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 144px;
+text-decoration-line: underline;
+
+color: #000000;
+
+
+}
+.messistanley {
+    /* image 49 */
+
+position: absolute;
+width: 1041px;
+height: 1105px;
+left: 312px;
+top: 1400px;
+
+background: url(stanleymessi.png);
+}
+.stanleyrosa {
+    /* image 50 */
+
+position: absolute;
+width: 1428px;
+height: 952px;
+left: 3738px;
+top: 730px;
+
+background-size: cover;
+
+background: url(stanleyrosa.png);
+
+}
+.matestanley{
+    /* image 51 */
+
+position: absolute;
+width: 512px;
+height: 512px;
+left: 4360px;
+top: 1995px;
+
+background: url(mate.png);
+
+}
+.lay´s {
+    /* LAY´S */
+
+position: absolute;
+width: 1103px;
+height: 171px;
+left: 1152px;
+top: 2634px;
+
+font-family: 'Lancelot';
+font-style: normal;
+font-weight: 400;
+font-size: 240px;
+line-height: 265px;
+
+color: #FCE96C;
+
+}
+.texto9 {
+    /* Lay´s, la empresa especializada en papas fritas presentó dos nuevos sabores, se trata de las papas Lay´s sabor Queso & Pimienta y Lay´s sabor Cebolla Caramelizada con empaques totalmente intervenidos con la imagen de Messi. Esta es la primera vez que Lay´s trabaja sobre el concepto de “G.O.A.T.” (Greatest Of All Time) en referencia a Messi y sus logros futbolísticos. */
+
+position: absolute;
+width: 2135px;
+height: 74px;
+left: 1273px;
+top: 3019px;
+
+font-family: 'Jost';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 144px;
+
+color: #000000;
+
+
+}
+.laysmessi {
+    /* image 52 */
+
+position: absolute;
+width: 1180px;
+height: 1959px;
+left: 93px;
+top: 3024px;
+
+background-size: cover;
+background: url(messilays.png);
+
+}
+.laysbolsa{
+    /* image 54 */
+
+position: absolute;
+width: 1739px;
+height: 1151px;
+left: 3426px;
+top: 2900px;
+
+background: url(papas1.png);
+
+}
+.laysbolsa2 {
+    /* image 55 */
+
+position: absolute;
+width: 772px;
+height: 772px;
+left: 3659px;
+top: 4041px;
+
+background: url(papas2.png);
+
+}
+.laysbolsa3 {
+    /* image 56 */
+
+position: absolute;
+width: 566px;
+height: 772px;
+left: 4437px;
+top: 4041px;
+
+background: url(papas3.png);
+
+}
+.messichico {
+    /* image 57 */
+
+position: absolute;
+width: 1001px;
+height: 1200px;
+left: 100px;
+top: 686px;
+
+background: url(messichico.png);
+
+}
+.texto10 {
+/* Leo */
+
+position: absolute;
+width: 1340px;
+height: 227px;
+left: 1209px;
+top: 586px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 180px;
+line-height: 216px;
+
+color: #893B3B;
+
+}
+.texto11{
+    /* Lionel Andrés Messi nació el 24 de junio de 1987 en el Hospital Italiano Garibaldi de la ciudad de Rosario, en la provincia de Santa Fe. Es el tercer hijo de Jorge Horacio Messi y Celia María Cuccittini. Tiene dos hermanos mayores, Rodrigo y Matías, y una hermana menor, María Sol. */
+
+position: absolute;
+width: 3629px;
+height: 507px;
+left: 1209px;
+top: 851px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 120px;
+
+color: #000000;
+
+
+}
+.texto12 {
+    /* Fue su abuela materna, Celia, la que lo alentó a dedicarse al fútbol, por lo que él le agradece señalando al cielo con las dos manos tras convertir un gol. */
+
+position: absolute;
+width: 2617px;
+height: 379px;
+left: 1209px;
+top: 1407px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 120px;
+
+color: #000000;
+
+
+}
+.texto13 {
+    /* Con apenas cuatro años, comenzó a practicar fútbol con Salvador Aparicio en el club Abanderado Grandoli.En 1994, empezó a entrenarse en las divisiones inferiores de Newell's Old Boys.
+A la edad de ocho años, le diagnosticaron una deficiencia de la hormona de crecimiento, por lo que debió hacer un tratamiento de 900 dólares mensuales que, durante un año y medio, cubrieron su obra social y Acindar. */
+/* Con apenas cuatro años, comenzó a practicar fútbol con Salvador Aparicio en el club Abanderado Grandoli.En 1994, empezó a entrenarse en las divisiones inferiores de Newell's Old Boys. A la edad de ocho años, le diagnosticaron una deficiencia de la hormona de crecimiento, por lo que debió hacer un tratamiento de 900 dólares mensuales que, durante un año y medio, cubrieron su obra social y Acindar. */
+
+position: absolute;
+width: 4815px;
+height: 528px;
+left: 110px;
+top: 1924px;
+
+font-family: 'Itim';
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+line-height: 120px;
+
+color: #000000;
+
+
+}
+
+
